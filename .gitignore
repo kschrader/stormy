@@ -8,4 +8,4 @@
 /.lein-deps-sum
 /.idea
 stormy.iml
-src/stormy/twitter.properties
+/src/stormy/twitter.properties

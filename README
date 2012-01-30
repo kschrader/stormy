@@ -1,13 +1,12 @@
 # stormy
 
-FIXME: write description
+Stormy is my playground to learn more about Clojure and processing data with it.
 
 ## Usage
 
-FIXME: write
+lein deps
+You know the rest...
 
 ## License
 
-Copyright (C) 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Copyright (C) 2012 Kurt Schrader. See LICENSE for details.

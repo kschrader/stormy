@@ -1,5 +1,5 @@
-(defproject stormy "1.0.0-SNAPSHOT"
+(defproject stormy "0.0.1"
   :description "FIXME: write description"
   :dependencies [[org.clojure/clojure "1.3.0"]
-                 [org.clojure/data.json "0.1.2"]
-                 [twitter-api "0.6.4"]])
+                 [http.async.client "0.4.0"]
+                 [cheshire "2.1.0"]])
